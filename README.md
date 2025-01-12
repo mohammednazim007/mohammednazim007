@@ -1,4 +1,6 @@
-# 💫 About Me:
+![github](https://github.com/user-attachments/assets/43af622c-3867-4a25-bf5b-79e8f60e25e3)
+# 💫 About Me
+:
 ✨ I’m currently working on:<br>Building responsive web applications using React, Next, TypeScript, and modern CSS frameworks like Tailwind CSS.<br>Improving performance optimization for web applications using tools like Lighthouse and Web Vitals.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>Open-source projects involving frontend frameworks like React or Next.<br><br>✋ I’m looking for help with:<br>Advanced animations and interactive user interfaces using libraries like GSAP or Framer Motion.<br>Integrating complex backend APIs and managing state in large applications.<br>Learning more about WebAssembly and its applications in frontend development.<br><br>💬 Ask me about:<br>The best practices for responsive design and mobile-first development.<br>How to get started with React or JavaScript frameworks.<br>Setting up a modern frontend workflow with tools like Vite, ESLint, and Prettier.
 
 
