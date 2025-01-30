@@ -1,6 +1,6 @@
 ![github](https://github.com/user-attachments/assets/43af622c-3867-4a25-bf5b-79e8f60e25e3)
 ## 💫 About Me
-:
+
 ✨ I’m currently working on:<br>Building responsive web applications using React, Next, TypeScript, and modern CSS frameworks like Tailwind CSS.<br>Improving performance optimization for web applications using tools like Lighthouse and Web Vitals.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>Open-source projects involving frontend frameworks like React or Next.<br><br>
 
 
