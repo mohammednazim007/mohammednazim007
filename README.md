@@ -8,6 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohammednazim007&theme=merko&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednazim007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=mohammednazim007&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammednazim007&theme=merko&hide_border=false)
 
 ## 🏆 GitHub Trophies
